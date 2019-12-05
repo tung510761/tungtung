@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This is tungtung ~ </title>
+        <style>
+            background-color: #0a376e
+            h1{
+                text-align: center;
+                color: #f0e197;  
+                font-size: 25px;
+            }
+            #first{
+                text-align: left;
+                color: #f0e197;  
+                font-size: 20px;
+            }
+            #second{
+                text-align: left;
+                color: #f0e197;  
+                font-size: 20px;
+            }
+            ul li{
+                text-align: left;
+                color: #f0e197;  
+                font-size: 20px;
+            }
+            .yoyo{
+                font-weight: bold;
+                color: #f09797; 
+                font-size: 23px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>吳東憲 B08303040 經濟一</h1>
+        <div id="first">I have a friend whose birthday is coming in the end of the year. His name is <span class="yoyo">Yoyo</span>.</div>
+        <li>Here are something about my friend Yoyo.</li>
+        <ul>
+            <li>Living in Changhua, studying in Taichung.</li>
+            <li>Taller than me.</li>
+            <li>Always talking nonsense like me.</li>
+        </ul>
+        <div id="second">The most important is we treat each other sincerely. And our relationship has been lasting for three years ,so I made a card for him.</div>
+        <img src="card.jpg" height="200" width="300">
+    </body>
+</html>
